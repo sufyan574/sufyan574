@@ -28,13 +28,13 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sufyan-ajmal/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.upwork.com/freelancers/~01c301a79c72e0a809" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/upwork.svg" width="48" alt="Upwork" />
+    <img src="https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" />
   </a>
   <a href="https://www.kaggle.com/sufyanajmal" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" width="48" alt="Kaggle" />
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
   </a>
 </p>
 
@@ -105,7 +105,7 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sufyan574&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sufyan574&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Streak" />
 </p>
 
 ---

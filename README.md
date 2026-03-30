@@ -69,7 +69,7 @@
 
 <p>
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="50"/>
-<img src="https://matplotlib.org/_static/images/logo2.svg" width="50"/>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
 </p>
 
 - NumPy | Pandas | Matplotlib  

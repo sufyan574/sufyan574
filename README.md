@@ -94,7 +94,7 @@
 
 
 <p align="center">
-  ![Trophies](https://github-profile-trophy.vercel.app/?username=sufyan574&theme=tokyonight)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sufyan574&theme=tokyonight" />
 </p>
 
 ## 🎯 Portfolio

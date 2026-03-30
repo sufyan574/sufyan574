@@ -19,7 +19,7 @@
 - 🤝 Open to collaborate on **AI & Scalable SaaS Products**
 - 🤲 Looking for help with **Cloud & System Design**
 - 🌱 Currently learning **Full Stack Development & Advanced ML**
-- 💬 Ask me about **C++, Web Dev, SaaS & Trading**
+- 💬 Ask me about **Python, Web Dev, SaaS & Trading**
 - ⚡ Fun fact: **I love building real-world projects 🚀**
 
 ---

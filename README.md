@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Sufyan Ajmal</h1>
-<h3 align="center">🚀 SaaS Developer | ML Enthusiast | Full Stack Learner</h3>
+<h3 align="center">🚀 SaaS Developer | AI Student | Full Stack Learner</h3>
 
 ---
 
 ## 👨‍💻 About Me
 
 - 📷 Building **SaaS-based Web Applications & ML Projects**
+- 🎓 **4th Semester AI Student**
 - 🤝 Open to collaborate on **AI & Scalable SaaS Products**
 - 🤲 Looking for help with **Cloud & System Design**
 - 🌱 Currently learning **Full Stack Development & Advanced ML**
@@ -54,9 +55,6 @@
 </p>
 
 ### 🧠 Data Science & ML
-<p>
-<img src="https://skillicons.dev/icons?i=python" />
-</p>
 
 - NumPy | Pandas | Matplotlib  
 - Scikit-Learn | TensorFlow | PyTorch  
@@ -86,16 +84,12 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
 </p>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
-</p>
-
 ---
 
 ## 🎯 Portfolio
 
-🚀 Check out my projects and SaaS builds here:  
-👉 **Add your portfolio link here**
+🚀 Check out my portfolio:  
+👉 https://sufyan-ajmal-e6dk.vercel.app/
 
 ---
 

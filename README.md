@@ -64,7 +64,6 @@
 <img src="https://cdn.worldvectorlogo.com/logos/namecheap.svg" width="50"/>
 </p>
 
-### 🧠 Data Science & ML
 
 ### 🧠 Data Science & Machine Learning
 <p>
@@ -110,9 +109,7 @@
 
 ## 🎯 Portfolio
 
-🚀 Check out my portfolio:  
-👉 https://sufyan-ajmal-e6dk.vercel.app/
-
+**[sufyan-ajmal-e6dk.vercel.app](https://sufyan-ajmal-e6dk.vercel.app/)** — Live Showcase
 ---
 
 ## 💡 Quote

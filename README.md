@@ -58,6 +58,20 @@
 
 ### 🧠 Data Science & ML
 
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
+
+<img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" width="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/pandas.svg" width="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg" width="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/pytorch-2.svg" width="50"/>
+</p>
+
+<p>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="50"/>
+<img src="https://matplotlib.org/_static/images/logo2.svg" width="50"/>
+</p>
+
 - NumPy | Pandas | Matplotlib  
 - Scikit-Learn | TensorFlow | PyTorch  
 - SciPy | MLflow  

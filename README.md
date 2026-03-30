@@ -94,9 +94,8 @@
 
 
 <p align="center">
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sufyan574&show_icons=true&theme=tokyonight&hide_border=true)
+  ![GitHub Stats](https://gitmystat.vercel.app/api?username=sufyan574)
 </p>
-
 ---
 
 ## 🎯 Portfolio

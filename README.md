@@ -94,7 +94,7 @@
 
 
 <p align="center">
-  ![GitHub Stats](https://gitmystat.vercel.app/api?username=sufyan574)
+  ![Trophies](https://github-profile-trophy.vercel.app/?username=sufyan574&theme=tokyonight)
 </p>
 ---
 

@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm Sufyan Ajmal</h1>
-<h3 align="center">🚀 SaaS Developer | AI Student | Full Stack Learner</h3>
+<h1 align="center">
+Hi 👋, I'm Sufyan Ajmal
+</h1>
+<h3 align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&color=00F0FF&width=500&lines=SaaS+Developer;AI+Student;Full+Stack+Learner" />
+</h3>
 
 ---
 

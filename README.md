@@ -105,7 +105,7 @@
 
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sufyan574E&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sufyan574&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
 
 ---

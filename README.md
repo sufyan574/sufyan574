@@ -96,7 +96,6 @@
 <p align="center">
   ![Trophies](https://github-profile-trophy.vercel.app/?username=sufyan574&theme=tokyonight)
 </p>
----
 
 ## 🎯 Portfolio
 

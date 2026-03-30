@@ -26,16 +26,16 @@
 
 ## 🌐 Connect with Me
 
-<p align="left">
-<a href="https://www.linkedin.com/in/sufyan-ajmal/" target="blank">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-<a href="https://www.upwork.com/freelancers/~01c301a79c72e0a809" target="blank">
-<img src="https://cdn.worldvectorlogo.com/logos/upwork.svg" width="40" />
-</a>
-<a href="https://www.kaggle.com/sufyanajmal" target="blank">
-<img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" width="40" />
-</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/sufyan-ajmal/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://www.upwork.com/freelancers/~01c301a79c72e0a809" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/upwork.svg" width="48" alt="Upwork" />
+  </a>
+  <a href="https://www.kaggle.com/sufyanajmal" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" width="48" alt="Kaggle" />
+  </a>
 </p>
 
 ---
@@ -102,12 +102,10 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-</p>
+
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sufyan574E&theme=tokyonight" />
 </p>
 
 ---

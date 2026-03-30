@@ -109,7 +109,7 @@
 
 ## 🎯 Portfolio
 
-**[sufyan-ajmal-e6dk.vercel.app](https://sufyan-ajmal-e6dk.vercel.app/)** — Live Showcase
+**[Visit my Portfolio](https://sufyan-ajmal-e6dk.vercel.app/)**
 ---
 
 ## 💡 Quote

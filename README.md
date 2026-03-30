@@ -51,7 +51,9 @@
 ### ☁️ Cloud & Hosting
 <p>
 <img src="https://skillicons.dev/icons?i=vercel,cloudflare,gcp" />
-<img src="https://skillicons.dev/icons?i=aws" />
+
+<img src="https://cdn.worldvectorlogo.com/logos/hostinger.svg" width="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/namecheap.svg" width="50"/>
 </p>
 
 ### 🧠 Data Science & ML

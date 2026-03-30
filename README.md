@@ -17,8 +17,7 @@
 - 📷 Building **SaaS-based Web Applications & ML Projects**
 - 🎓 **4th Semester AI Student**
 - 🤝 Open to collaborate on **AI & Scalable SaaS Products**
-- 🤲 Looking for help with **Cloud & System Design**
-- 🌱 Currently learning **Full Stack Development & Advanced ML**
+- 🌱 **Currently diving deep into Full Stack Development & Advanced Machine Learning**
 - 💬 Ask me about **Python, Web Dev, SaaS & Trading**
 - ⚡ Fun fact: **I love building real-world projects 🚀**
 

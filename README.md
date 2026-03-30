@@ -58,7 +58,6 @@
 </p>
 
 ### ☁️ Cloud & Hosting
-### ☁️ Cloud & Hosting
 <p>
 <img src="https://skillicons.dev/icons?i=vercel,cloudflare,gcp" />
 

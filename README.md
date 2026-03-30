@@ -1,8 +1,9 @@
 <h1 align="center">
-Hi 👋, I'm Sufyan Ajmal
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&color=8B5CF6&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Sufyan+Ajmal" alt="Hi, I'm Sufyan Ajmal" />
 </h1>
+
 <h3 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&color=00F0FF&width=500&lines=SaaS+Developer;AI+Student;Full+Stack+Learner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&color=A855F7&width=550&lines=SaaS+Developer;AI+Student;Full+Stack+Learner;Building+Scalable+Web+Apps;Passionate+about+Real-World+ML" alt="Typing animation" />
 </h3>
 
 ---

@@ -12,7 +12,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=20&color=C084FC&width=700&lines=Passionate+about+real-world+AI+%26+SaaS+solutions;Currently+crafting+production-ready+web+apps;4th+Semester+AI+Student+on+a+mission;Open+for+collaborations+on+innovative+projects" alt="About Typing" />
 </div>
 
-## 👨‍💻 About Me
+##  About Me
 
 - 📷 Building **SaaS-based Web Applications & ML Projects**
 - 🎓 **4th Semester AI Student**
